@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApp", "SampleWebApp\SampleWebApp.csproj", "{CAFADA2B-386E-41DC-99C7-4200989554FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFADA2B-386E-41DC-99C7-4200989554FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFADA2B-386E-41DC-99C7-4200989554FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFADA2B-386E-41DC-99C7-4200989554FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFADA2B-386E-41DC-99C7-4200989554FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
